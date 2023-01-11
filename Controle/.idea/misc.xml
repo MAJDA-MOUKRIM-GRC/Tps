@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/controle-back/billing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/controle-back/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/controle-back/product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/controle-back/customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/controle-back/eureka-discovery/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
